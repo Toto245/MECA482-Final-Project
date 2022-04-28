@@ -26,3 +26,4 @@
 ### Appendix A Simulation Code
 
 ### References 
+1) https://en.wikipedia.org/wiki/Furuta_pendulum
