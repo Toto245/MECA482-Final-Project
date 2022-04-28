@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+![chicostateengineering](https://user-images.githubusercontent.com/104525569/165656325-126c0024-a1b2-44f3-8fbc-4cbb8f84246b.png)
+# MECH482-Group7-Project
 
-You can use the [editor on GitHub](https://github.com/Toto245/Toto245.githup.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+ Spring 2022 
+ 
+ Control System Design of Furuta Pendulum 
+ 
+ Group 7: Cameron Gaouette, Bryce Miller, Toto Albano-Dito, Angel Sanchez, Lucas West 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Table of Context
++ [1 - Introduction](#Introduction) 
++ [2 - Modeling](#Modeling)
++ [3 - Sensor Calibration](#Sensor-Calibration)
++ [4 - Controller Design and Simulation](#Controller-Design-and-Simulation)
++ [5 - Appendix A Simulation Code](#Appendix-A-Simulation-Code)
++ [6 - References](#References)
 
-### Markdown
+### Introduction
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Modeling
 
-```markdown
-Syntax highlighted code block
+### Sensor Calibration
 
-# Header 1
-## Header 2
-### Header 3
+### Controller Design and Simulation 
 
-- Bulleted
-- List
+### Appendix A Simulation Code
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Toto245/Toto245.githup.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### References 
+1) https://en.wikipedia.org/wiki/Furuta_pendulum
