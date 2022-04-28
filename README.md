@@ -13,7 +13,7 @@
 + [3 - Sensor Calibration](#SensorCalibration)
 + [4 - Controller Design and Simulation](#ControllerDesignandSimulation)
 + [5 - Appendix A Simulation Code](#AppendixASimulationCode)
-+ [6 - References](References)
++ [6 - References](#References)
 
 ### Introduction
 
