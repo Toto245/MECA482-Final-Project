@@ -24,6 +24,6 @@
 ### Controller Design and Simulation 
 
 ### Appendix A Simulation Code
-![image](https://user-images.githubusercontent.com/104540152/165661162-1eac72a2-db51-45f5-a080-0e814cc36728.png)
+
 ### References 
 1) https://en.wikipedia.org/wiki/Furuta_pendulum
