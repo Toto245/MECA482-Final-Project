@@ -5,9 +5,21 @@
 #### Group 7: Cameron Gaouette, Bryce Miller, Toto Albano-Dito, Angel Sanchez, Lucas West 
 
 ## Table of Context
-+ 1.
-+ 2.
-+ 3.
-+ 4.
-+ 5.
-+ 6.
++ 1 - [Introduction](## Introduction), 
++ 2 - Modeling
++ 3 - Sensor Calibration
++ 4 - Controller Design and Simulation 
++ 5 - Appendix A: Simulation Code
++ 6 - References 
+
+## Introduction
+
+## Modeling
+
+## Sensor Calibration
+
+## Controller Design and Simulation 
+
+## Appendix A: Simulation Code
+
+## References 
