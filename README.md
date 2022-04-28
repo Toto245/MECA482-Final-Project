@@ -12,14 +12,14 @@
 + 5 - Appendix A: Simulation Code
 + 6 - References 
 
-## Introduction
+### Introduction
 
-## Modeling
+### Modeling
 
-## Sensor Calibration
+### Sensor Calibration
 
-## Controller Design and Simulation 
+### Controller Design and Simulation 
 
-## Appendix A: Simulation Code
+### Appendix A: Simulation Code
 
-## References 
+### References 
