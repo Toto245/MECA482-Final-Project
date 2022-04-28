@@ -9,8 +9,8 @@
 
 ## Table of Context
 + [1 - Introduction](###Introduction) 
-+ 2 - Modeling
-+ 3 - Sensor Calibration
++ [2 - Modeling](###Modeling)
++ [3 - Sensor Calibration](###Sensor Calibration)
 + 4 - Controller Design and Simulation 
 + 5 - Appendix A: Simulation Code
 + 6 - References 
