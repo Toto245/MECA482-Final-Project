@@ -5,3 +5,9 @@
 #### Group 7: Cameron Gaouette, Bryce Miller, Toto Albano-Dito, Angel Sanchez, Lucas West 
 
 ## Table of Context
++ 1.
++ 2.
++ 3.
++ 4.
++ 5.
++ 6.
