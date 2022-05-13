@@ -16,7 +16,7 @@
 + [6 - References](#References)
 
 ### Introduction
-d
+
 ### Modeling
 
 ### Sensor Calibration
