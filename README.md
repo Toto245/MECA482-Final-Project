@@ -23,7 +23,9 @@ Figure 1. System Model
 
 
 The futura pendulum system model is shown above. The moving arm utilizes the SRV02, which is the Quanser QUBE-Servo 2. This is how the arm actuates.
+
 Variables of Figure 1.
+
 Lr = arm length
 
 Jr = Moment of Inertia
