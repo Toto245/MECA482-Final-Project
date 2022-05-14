@@ -20,6 +20,8 @@ The Furuta Pendulum is a device that balances a free moving arm affected by grav
 ### Modeling
 Figure 1. System Model
 ![image](https://user-images.githubusercontent.com/102193371/168450542-038c65ba-0f4f-4816-a9e6-8a8f63c60d8f.png)
+
+
 The futura pendulum system model is shown above. The moving arm utilizes the SRV02, which is the Quanser QUBE-Servo 2. This is how the arm actuates.
 Variables of Figure 1.
 Lr = arm length
