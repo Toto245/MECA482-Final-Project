@@ -18,6 +18,8 @@
 ### Introduction
 The Furuta Pendulum is a device that balances a free moving arm affected by gravity by rotating horizontally. The goal of this project is to balance the arm vertically with its end pointing away from the base. 
 ### Modeling
+Figure 1. CoppeliaSim Model
+![image](https://user-images.githubusercontent.com/102193371/168404128-bc4e17e6-5d81-4cd8-b366-b6ef2383fd47.png)
 The modelling of the Furuta Pendulum is implemented with CoppeliaSim, which has the ability to compute dynamic properties needed in operation of the pendulum arm. The controller utilizes the following variables to balance the pendulum.
 
 Variables: 
