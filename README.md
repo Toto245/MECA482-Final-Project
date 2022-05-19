@@ -5,7 +5,7 @@
  
  Control System Design of Furuta Pendulum 
  
- Group 7: Cameron Gaouette, Bryce Miller, Toto Albano-Dito, Angel Sanchez, Lucas West 
+ Group 7: Bryce Miller, Toto Albano-Dito, Angel Sanchez, Lucas West 
 
 ## Table of Context
 + [1 - Introduction](#Introduction) 
