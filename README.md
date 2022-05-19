@@ -40,15 +40,18 @@ Jp = Moment of Inertia of the Center of Mass
 
 
 Figure 1. CoppeliaSim Model
+
 ![image](https://user-images.githubusercontent.com/102193371/168404128-bc4e17e6-5d81-4cd8-b366-b6ef2383fd47.png)
 The modelling of the Furuta Pendulum is implemented with CoppeliaSim, which has the ability to compute dynamic properties needed in operation of the pendulum arm.
 
 ### Simulink
 Control Structure for Futura Pendulum
+
 ![image](https://user-images.githubusercontent.com/102193371/168450517-1aec2f64-ef73-429a-994c-ab7c881583dd.png)
 
 
 Simulink Model for Furuta Pendulum
+
 ![image](https://user-images.githubusercontent.com/102193371/168450300-43808ba8-1799-4e23-ae27-381af375f472.png)
 
 ### Controller Design and Simulation 
