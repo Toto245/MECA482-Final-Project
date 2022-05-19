@@ -59,3 +59,4 @@ Simulink Model for Furuta Pendulum
 1) https://www.youtube.com/watch?v=o5g-lUuFgpg
 2) https://en.wikipedia.org/wiki/Furuta_pendulum
 3) 
+4)
